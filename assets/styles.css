@@ -5,14 +5,17 @@ body {
 .container {
     background-color: white;
     margin-top: 5%;
+    padding: 20px;
+}
+
+h1 {
+    color: teal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 .picture {
-    margin: 10px;
-}
-
-p {
-    margin: 10px;
+    margin-right: 15px;
 }
 
 .navbar-brand {
