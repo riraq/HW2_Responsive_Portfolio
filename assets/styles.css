@@ -23,10 +23,6 @@ h1 {
     background-color: teal;
 }
 
-.navbar-dark .navbar-nav .nav-link {
-    color: grey;
-}
-
-.navbar-dark .navbar-nav .nav-link.active {
-    color: black;
+.navbar-light .navbar-brand {
+    color: white;
 }
