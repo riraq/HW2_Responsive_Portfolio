@@ -26,3 +26,11 @@ h1 {
 .navbar-light .navbar-brand {
     color: white;
 }
+
+@media (min-width: 400px) {
+    .container{
+        max-width: 66%;
+        float: left;
+        margin-left: 5%;
+    }
+}
