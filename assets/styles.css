@@ -27,6 +27,11 @@ h1 {
     color: white;
 }
 
+.btn-primary {
+    background-color: teal;
+    border-color: teal;
+}
+
 @media (min-width: 400px) {
     .container{
         max-width: 66%;
