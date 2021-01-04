@@ -1,41 +1,44 @@
+/* adds background image to website */
 body {
     background-image: url("./bg_img.jpg");
 }
 
+/* adds style to content container on each page */
 .container {
     background-color: white;
     margin-top: 5%;
     padding: 20px;
     margin-left: 5%;
+    max-width: 66%;
+    float: left;
 }
 
+/* custom style for h1 on all pages*/
 h1 {
     color: teal;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 
+/* styles navbar brand */
 .navbar-brand {
     font-weight: bold;
     background-color: teal;
+    color: white;
 }
 
+/* changes text color of navbar brand in order to contrast with background color */
 .navbar-light .navbar-brand {
     color: white;
 }
 
+/* styles color of submit button on contact page */
 .btn-primary {
     background-color: teal;
     border-color: teal;
 }
 
-@media screen and (min-width: 400px) {
-    .container {
-        max-width: 66%;
-        float: left;
-    }
-}
-
+/* responds to smaller screen size and adjusts container layout */
 @media screen and (max-width: 400px) {
     .container {
         max-width: 95%;
