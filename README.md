@@ -13,12 +13,12 @@ The Contact page is a way for anyone to get in touch with me if they would like 
 https://riraq.github.io/Responsive_Portfolio/
 
 ## Screenshots
-![aboutmeSmall](assets/aboutmeSmall.png)
-![aboutmeMedium](assets/aboutmeMedium.jpg)
-![aboutmeLarge](assets/aboutmeLarge.jpg)
-![portfolioSmall](assets/portfolioSmall.png)
-![portfolioMedium](assets/portfolioMedium.jpg)
-![portfolioLarge](assets/portfolioLarge.jpg)
-![contactSmall](assets/contactSmall.png)
-![contactMedium](assets/contactMedium.jpg)
-![contactLarge](assets/contactLarge.jpg)
+![aboutmeSmall](assets/images/aboutmeSmall.png)
+![aboutmeMedium](assets/images/aboutmeMedium.jpg)
+![aboutmeLarge](assets/images/aboutmeLarge.jpg)
+![portfolioSmall](assets/images/portfolioSmall.png)
+![portfolioMedium](assets/images/portfolioMedium.jpg)
+![portfolioLarge](assets/images/portfolioLarge.jpg)
+![contactSmall](assets/images/contactSmall.png)
+![contactMedium](assets/images/contactMedium.jpg)
+![contactLarge](assets/images/contactLarge.jpg)
