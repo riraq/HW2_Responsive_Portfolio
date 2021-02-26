@@ -29,13 +29,11 @@ h1 {
 /* styles navbar brand */
 .navbar-brand {
     font-weight: bold;
-    background-color: teal;
-    color: white;
 }
 
 /* changes text color of navbar brand in order to contrast with background color */
 .navbar-light .navbar-brand {
-    color: white;
+    color: teal;
 }
 
 /* styles color of submit button on contact page */
