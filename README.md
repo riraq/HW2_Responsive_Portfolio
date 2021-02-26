@@ -7,18 +7,11 @@ The main page is the About Me which shows a picture of me and gives a short bio 
 
 The Portfolio page will contain my work that I would like others to see if they are interested in the kind of code development that I have experience with. 
 
-The Contact page is a way for anyone to get in touch with me if they would like to communicate directly and get more information. 
+My contact information is found on the bottom of each page.
 
 ## Live Link
 https://riraq.github.io/Responsive_Portfolio/
 
 ## Screenshots
-![aboutmeSmall](assets/images/aboutmeSmall.png)
-![aboutmeMedium](assets/images/aboutmeMedium.jpg)
-![aboutmeLarge](assets/images/aboutmeLarge.jpg)
-![portfolioSmall](assets/images/portfolioSmall.png)
-![portfolioMedium](assets/images/portfolioMedium.jpg)
-![portfolioLarge](assets/images/portfolioLarge.jpg)
-![contactSmall](assets/images/contactSmall.png)
-![contactMedium](assets/images/contactMedium.jpg)
-![contactLarge](assets/images/contactLarge.jpg)
+![about me updated](assets/images/aboutMeUpdate.jpg)
+![portfolio updated](assets/images/portfolioUpdate.jpg)
