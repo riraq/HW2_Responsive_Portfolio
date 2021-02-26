@@ -37,49 +37,64 @@
   </nav>
 
   <!-- container that holds contact form -->
-  <section class="container">
-    <h1>Contact</h1>
-    <hr>
-
-    <!-- creates form labels and inputs to contact -->
-    <form>
-
-      <!-- form input for name -->
-      <div class="row">
-        <div class="mb-3 col-12 col-md-9">
-          <label for="nameFormInput" class="form-label">Name</label>
-          <input type="email" class="form-control" id="nameFormInput" placeholder="Name">
+  <article class="container">
+  
+    <section class="row">
+      <h1>Contact</h1>
+      <hr>
+  
+      <!-- creates form labels and inputs to contact -->
+      <form>
+  
+        <!-- form input for name -->
+        <div class="row">
+          <div class="mb-3 col-12 col-md-9">
+            <label for="nameFormInput" class="form-label">Name</label>
+            <input type="email" class="form-control" id="nameFormInput" placeholder="Name">
+          </div>
+          <div class="col-md-3"></div>
         </div>
-        <div class="col-md-3"></div>
-      </div>
-
-      <!-- form input for email -->
-      <div class="row">
-        <div class="mb-3 col-12 col-md-9">
-          <label for="emailFormInput" class="form-label">Email</label>
-          <input type="email" class="form-control" id="emailFormInput" placeholder="Email">
+  
+        <!-- form input for email -->
+        <div class="row">
+          <div class="mb-3 col-12 col-md-9">
+            <label for="emailFormInput" class="form-label">Email</label>
+            <input type="email" class="form-control" id="emailFormInput" placeholder="Email">
+          </div>
+          <div class="col-md-3"></div>
+  
         </div>
-        <div class="col-md-3"></div>
-
-      </div>
-
-      <!-- form input for writing a message -->
-      <div class="row">
-        <div class="mb-3 col-12 col-md-9">
-          <label for="messageFormTextarea" class="form-label">Message</label>
-          <textarea class="form-control" id="messageFormTextarea" rows="3" placeholder="Message"></textarea>
+  
+        <!-- form input for writing a message -->
+        <div class="row">
+          <div class="mb-3 col-12 col-md-9">
+            <label for="messageFormTextarea" class="form-label">Message</label>
+            <textarea class="form-control" id="messageFormTextarea" rows="3" placeholder="Message"></textarea>
+          </div>
+          <div class="col-md-3"></div>
         </div>
-        <div class="col-md-3"></div>
+  
+        <!-- submit button to send information input into form -->
+        <div>
+          <button type="submit" class="btn btn-primary mb-3">Submit</button>
+        </div>
+  
+      </form>
+    </section>
+  
+    <footer class="footer row">
+      <div class="col-12">
+        <h3>Contact</h3>
+        <address>
+          Name: Rony Iraq<br>
+          Email: <a href="mailto:riraq@mail.usf.edu">riraq@mail.usf.edu</a><br>
+          Phone: (561) 685-0578<br>
+          Resume: <a href="./assets/Rony Iraq Resume.pdf">View/Download</a><br>
+        </address>
       </div>
-
-      <!-- submit button to send information input into form -->
-      <div>
-        <button type="submit" class="btn btn-primary mb-3">Submit</button>
-      </div>
-
-    </form>
-
-  </section>
+    </footer>
+  
+  </article>
 
   <!-- allows collapsed navbar to function -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>

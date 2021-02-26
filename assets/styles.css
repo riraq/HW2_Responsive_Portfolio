@@ -1,17 +1,19 @@
 /* adds background image to website */
 body {
-    background-image: url("./bg_img.jpg");
+    background-image: url("./images/bg_img.jpg");
 }
 
 /* adds style to content container on each page */
 .container {
-    background-color: white;
     padding: 20px;
+    padding-bottom: 0;
     margin-top: 5%;
-    margin-bottom: 5%;
-    margin-left: 5%;
-    max-width: 66%;
-    float: left;
+    margin-bottom: 0;
+}
+
+#profilePic {
+    height: 300px;
+    width: 225px;
 }
 
 /* custom style for h1 on all pages*/
@@ -37,6 +39,37 @@ h1 {
 .btn-primary {
     background-color: teal;
     border-color: teal;
+}
+
+#portfolio {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+.gy-4 {
+    margin-left: 0;
+    margin-bottom: 24px;
+}
+
+.row {
+    background-color: white;
+}
+
+h1 {
+    padding: 10px;
+    background-color: white;
+}
+
+.footer {
+    position: relative;
+    margin: 0;
+    margin-top: 50px;
+    bottom: 0;
+    width: auto;
+    color: black;
+    text-align: center;
+    background-color: white;
 }
 
 /* responds to smaller screen size and adjusts container layout */
