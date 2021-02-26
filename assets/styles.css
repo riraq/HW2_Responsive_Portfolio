@@ -72,6 +72,9 @@ h1 {
     text-align: center;
     background-color: white;
 }
+.footerContainer {
+    margin: 0 auto;
+}
 
 /* responds to smaller screen size and adjusts container layout */
 @media screen and (max-width: 400px) {
