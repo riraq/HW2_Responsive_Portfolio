@@ -12,8 +12,11 @@ body {
 }
 
 #profilePic {
-    height: 300px;
-    width: 225px;
+    display: block;
+    max-width: 230px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
 }
 
 /* custom style for h1 on all pages*/
